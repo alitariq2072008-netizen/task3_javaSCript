@@ -50,9 +50,10 @@ console.log(numberToCheck);
  
 let before ="20";
 console.log(before);
-let after=before
-before=(5);
-console.log(before);
+let before1="20"
+let after=Number(before);
+
+console.log(after);
 
 console.log("task5 done");
 
@@ -60,13 +61,14 @@ console.log("task5 done");
 console.log("task6");
 
 
-let playerName=Christiano;
+let playerName="Cristiano";
 let playerScore=950;
-let team=Al-Nassr;
+let team="Al-Nassr";
 let championsLeagueWon=4;
 let playerAge=40;
 let templateLiterals = `He  is name ${playerName} He is score ${playerScore} his football team name ${team} They are champions number ${championsLeagueWon} He is year old ${playerAge} `
 console.log(templateLiterals);
+
 
 
 
