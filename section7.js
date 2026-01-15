@@ -47,6 +47,24 @@ console.log("Excellent")
  for (let y = 1; y<= 30; y++ ){
    console.log(y);
  }
+console.log("==================")
+ for (let y=3; y<= 6; y++){
+   console.log(y)
+   console.log("Fizz")
+   
+
+
+ }
+ console.log("==========")
+ for(let y=5; y<=7; y++){
+   console.log(y);
+   console.log("Buzz")
+ }
+ console.log("================")
+ for(let y=2; y <=5; y++){
+console.log(y)
+console.log("Fizz Buzz")
+ }
    
  
 
@@ -61,6 +79,7 @@ console.log("Excellent")
  
  
   
+
 
 
 
